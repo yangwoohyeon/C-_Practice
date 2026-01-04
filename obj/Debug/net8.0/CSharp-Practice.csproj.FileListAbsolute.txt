@@ -1,0 +1,14 @@
+/Users/yang-woohyeon/Documents/CSharp-Practice/bin/Debug/net8.0/CSharp-Practice
+/Users/yang-woohyeon/Documents/CSharp-Practice/bin/Debug/net8.0/CSharp-Practice.deps.json
+/Users/yang-woohyeon/Documents/CSharp-Practice/bin/Debug/net8.0/CSharp-Practice.runtimeconfig.json
+/Users/yang-woohyeon/Documents/CSharp-Practice/bin/Debug/net8.0/CSharp-Practice.dll
+/Users/yang-woohyeon/Documents/CSharp-Practice/bin/Debug/net8.0/CSharp-Practice.pdb
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.AssemblyInfoInputs.cache
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.AssemblyInfo.cs
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.csproj.CoreCompileInputs.cache
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.dll
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/refint/CSharp-Practice.dll
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.pdb
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.genruntimeconfig.cache
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/ref/CSharp-Practice.dll
