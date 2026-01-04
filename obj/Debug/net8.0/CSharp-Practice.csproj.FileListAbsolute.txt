@@ -12,3 +12,4 @@
 /Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.pdb
 /Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.genruntimeconfig.cache
 /Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/ref/CSharp-Practice.dll
+/Users/yang-woohyeon/Documents/CSharp-Practice/obj/Debug/net8.0/CSharp-Practice.sourcelink.json

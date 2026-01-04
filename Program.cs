@@ -76,7 +76,13 @@ class Program{
 
         Console.WriteLine();
 
+        Console.WriteLine("나눌 숫자를 입력하세요: ");
+        int num = int.Parse(Console.ReadLine());
+        try{
+            Console.WriteLine("결과 : " + 10/num);
+        }catch{
+            Console.WriteLine("0으로 나눌수 없음.");
+        }
         
-
-   }
+    }
 }
