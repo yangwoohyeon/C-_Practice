@@ -80,9 +80,8 @@ class Program{
         int num = int.Parse(Console.ReadLine());
         try{
             Console.WriteLine("결과 : " + 10/num);
-        }catch{
-            Console.WriteLine("0으로 나눌수 없음.");
-        }
-        
+        }catch(Exception e){
+            Console.WriteLine("예외 메시지 : "+ e.Message);      
     }
+}
 }
